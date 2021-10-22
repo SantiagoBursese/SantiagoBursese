@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Santiago</h1>
+<h1 align="left">Hi 👋, I'm Santiago</h1>
 
 
 - 🔭 I’m currently working on **RedLink**
